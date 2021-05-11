@@ -1,0 +1,7 @@
+C:\Users\Japa\Desktop\Estudos CSharp\CSharp\P10-CalculandoPoupança\bin\Debug\P10-CalculandoPoupança.exe.config
+C:\Users\Japa\Desktop\Estudos CSharp\CSharp\P10-CalculandoPoupança\bin\Debug\P10-CalculandoPoupança.exe
+C:\Users\Japa\Desktop\Estudos CSharp\CSharp\P10-CalculandoPoupança\bin\Debug\P10-CalculandoPoupança.pdb
+C:\Users\Japa\Desktop\Estudos CSharp\CSharp\P10-CalculandoPoupança\obj\Debug\P10-CalculandoPoupança.csprojAssemblyReference.cache
+C:\Users\Japa\Desktop\Estudos CSharp\CSharp\P10-CalculandoPoupança\obj\Debug\P10-CalculandoPoupança.csproj.CoreCompileInputs.cache
+C:\Users\Japa\Desktop\Estudos CSharp\CSharp\P10-CalculandoPoupança\obj\Debug\P10-CalculandoPoupança.exe
+C:\Users\Japa\Desktop\Estudos CSharp\CSharp\P10-CalculandoPoupança\obj\Debug\P10-CalculandoPoupança.pdb

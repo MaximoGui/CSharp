@@ -1,0 +1,7 @@
+C:\Users\Japa\Desktop\Estudos CSharp\CSharp\AliquotaComIfs\bin\Debug\AliquotaComIfs.exe.config
+C:\Users\Japa\Desktop\Estudos CSharp\CSharp\AliquotaComIfs\bin\Debug\AliquotaComIfs.exe
+C:\Users\Japa\Desktop\Estudos CSharp\CSharp\AliquotaComIfs\bin\Debug\AliquotaComIfs.pdb
+C:\Users\Japa\Desktop\Estudos CSharp\CSharp\AliquotaComIfs\obj\Debug\AliquotaComIfs.csprojAssemblyReference.cache
+C:\Users\Japa\Desktop\Estudos CSharp\CSharp\AliquotaComIfs\obj\Debug\AliquotaComIfs.csproj.CoreCompileInputs.cache
+C:\Users\Japa\Desktop\Estudos CSharp\CSharp\AliquotaComIfs\obj\Debug\AliquotaComIfs.exe
+C:\Users\Japa\Desktop\Estudos CSharp\CSharp\AliquotaComIfs\obj\Debug\AliquotaComIfs.pdb

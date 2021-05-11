@@ -1,0 +1,7 @@
+C:\Users\Japa\Desktop\Estudos CSharp\3-CriandoVariaveisPontoFlutuante\bin\Debug\3-CriandoVariaveisPontoFlutuante.exe.config
+C:\Users\Japa\Desktop\Estudos CSharp\3-CriandoVariaveisPontoFlutuante\bin\Debug\3-CriandoVariaveisPontoFlutuante.exe
+C:\Users\Japa\Desktop\Estudos CSharp\3-CriandoVariaveisPontoFlutuante\bin\Debug\3-CriandoVariaveisPontoFlutuante.pdb
+C:\Users\Japa\Desktop\Estudos CSharp\3-CriandoVariaveisPontoFlutuante\obj\Debug\3-CriandoVariaveisPontoFlutuante.csprojAssemblyReference.cache
+C:\Users\Japa\Desktop\Estudos CSharp\3-CriandoVariaveisPontoFlutuante\obj\Debug\3-CriandoVariaveisPontoFlutuante.csproj.CoreCompileInputs.cache
+C:\Users\Japa\Desktop\Estudos CSharp\3-CriandoVariaveisPontoFlutuante\obj\Debug\3-CriandoVariaveisPontoFlutuante.exe
+C:\Users\Japa\Desktop\Estudos CSharp\3-CriandoVariaveisPontoFlutuante\obj\Debug\3-CriandoVariaveisPontoFlutuante.pdb

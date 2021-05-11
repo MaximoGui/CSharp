@@ -1,0 +1,7 @@
+C:\Users\Japa\Desktop\Estudos CSharp\CSharp\P11-CalculaPoupança2\bin\Debug\P11-CalculaPoupança2.exe.config
+C:\Users\Japa\Desktop\Estudos CSharp\CSharp\P11-CalculaPoupança2\bin\Debug\P11-CalculaPoupança2.exe
+C:\Users\Japa\Desktop\Estudos CSharp\CSharp\P11-CalculaPoupança2\bin\Debug\P11-CalculaPoupança2.pdb
+C:\Users\Japa\Desktop\Estudos CSharp\CSharp\P11-CalculaPoupança2\obj\Debug\P11-CalculaPoupança2.csprojAssemblyReference.cache
+C:\Users\Japa\Desktop\Estudos CSharp\CSharp\P11-CalculaPoupança2\obj\Debug\P11-CalculaPoupança2.csproj.CoreCompileInputs.cache
+C:\Users\Japa\Desktop\Estudos CSharp\CSharp\P11-CalculaPoupança2\obj\Debug\P11-CalculaPoupança2.exe
+C:\Users\Japa\Desktop\Estudos CSharp\CSharp\P11-CalculaPoupança2\obj\Debug\P11-CalculaPoupança2.pdb
