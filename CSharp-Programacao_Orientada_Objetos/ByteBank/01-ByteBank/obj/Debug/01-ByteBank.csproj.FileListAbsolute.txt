@@ -1,0 +1,7 @@
+C:\Users\Japa\Desktop\Estudos CSharp\CSharp\CSharp-Programacao_Orientada_Objetos\ByteBank\01-ByteBank\bin\Debug\01-ByteBank.exe.config
+C:\Users\Japa\Desktop\Estudos CSharp\CSharp\CSharp-Programacao_Orientada_Objetos\ByteBank\01-ByteBank\bin\Debug\01-ByteBank.exe
+C:\Users\Japa\Desktop\Estudos CSharp\CSharp\CSharp-Programacao_Orientada_Objetos\ByteBank\01-ByteBank\bin\Debug\01-ByteBank.pdb
+C:\Users\Japa\Desktop\Estudos CSharp\CSharp\CSharp-Programacao_Orientada_Objetos\ByteBank\01-ByteBank\obj\Debug\01-ByteBank.csprojAssemblyReference.cache
+C:\Users\Japa\Desktop\Estudos CSharp\CSharp\CSharp-Programacao_Orientada_Objetos\ByteBank\01-ByteBank\obj\Debug\01-ByteBank.csproj.CoreCompileInputs.cache
+C:\Users\Japa\Desktop\Estudos CSharp\CSharp\CSharp-Programacao_Orientada_Objetos\ByteBank\01-ByteBank\obj\Debug\01-ByteBank.exe
+C:\Users\Japa\Desktop\Estudos CSharp\CSharp\CSharp-Programacao_Orientada_Objetos\ByteBank\01-ByteBank\obj\Debug\01-ByteBank.pdb
