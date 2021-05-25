@@ -1,2 +1,3 @@
 # CSharp
-Repositório dedicado aos estudos de CSharp!
+Repositório dedicado aos estudos de CSharp através dos conteúdos da Alura! Ainda não finalizado...
+
